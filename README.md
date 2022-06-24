@@ -18,6 +18,8 @@ Sau khi càn quét ổ `C:\`,virus sẽ bắt đầu can thiệp vào `Windows R
 Tôi ĐÃ thử nghiệm trên máy ảo CollabVM và khiến nó bị treo 7 tiếng liên tiếp
 
 # Đóng góp
-- Xin cảm ơn
 
-Fix Bug : Trần Anh Tuấn ([GitHub](https://github.com/tat2008), [Discord](https://discord.com/users/722469852010512464), [Website](https://tat2008.tk), [Facebook](https://www.facebook.com/tat2008))
+Xin cảm ơn 
+
+- Fix Bug : Trần Anh Tuấn ([GitHub](https://github.com/tat2008), [Discord](https://discord.com/users/722469852010512464), [Website](https://tat2008.tk), [Facebook](https://www.facebook.com/tat2008))
+- Beta-tester : Solute_, ([Discord](https://discord.com/users/712638495310479442)) 
