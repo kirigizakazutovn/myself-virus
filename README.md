@@ -1,5 +1,5 @@
 # Lưu ý
-- Chuẩn bị 1 file Ghost Backup và 1 đĩa/USB WinPE hoặc 1 đĩa/USB Windows Setup (từ Windows 7 trở lên)
+- Chuẩn bị 1 file `Ghost Backup` và 1 đĩa/USB `WinPE` hoặc 1 đĩa/USB `Windows Setup` (từ `Windows 7` trở lên)
 - Sao lưu toàn bộ dữ liệu lên OneDrive/Google Drive/Dropbox/iCloud hoặc ổ cứng,USB
 # Cách hoạt động
 Khi bạn khởi chạy nó với quyền `Administrator`,nó sẽ bắt đầu công cuộc càn quét ổ `C:\` của bạn và sau đó xóa sạch chúng
@@ -22,4 +22,4 @@ Tôi ĐÃ thử nghiệm trên máy ảo CollabVM và khiến nó bị treo 7 ti
 Xin cảm ơn 
 
 - Fix Bug : Trần Anh Tuấn ([GitHub](https://github.com/tat2008), [Discord](https://discord.com/users/722469852010512464), [Website](https://tat2008.tk), [Facebook](https://www.facebook.com/tat2008))
-- Beta-tester : Solute_, ([Discord](https://discord.com/users/712638495310479442)) 
+- Beta-tester : Solute,_ ([Discord](https://discord.com/users/712638495310479442)) 
