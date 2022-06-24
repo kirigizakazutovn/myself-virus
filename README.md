@@ -20,4 +20,4 @@ Tôi ĐÃ thử nghiệm trên máy ảo CollabVM và khiến nó bị treo 7 ti
 # Đóng góp
 - Xin cảm ơn
 
-Fix Bug : Trần Anh Tuấn ([GitHub](https://github.com/tat2008))
+Fix Bug : Trần Anh Tuấn ([GitHub](https://github.com/tat2008),[Discord](https://discord.com/users/722469852010512464))
