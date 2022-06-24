@@ -6,4 +6,6 @@
 ```
 C:\Windows
 C:\Progam Files
+C:\Progam Files (x86)
+C:\User
 ```
